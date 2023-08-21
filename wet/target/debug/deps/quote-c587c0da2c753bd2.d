@@ -1,0 +1,13 @@
+/home/sam/RustProj/wet/target/debug/deps/quote-c587c0da2c753bd2.rmeta: /home/sam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.32/src/lib.rs /home/sam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.32/src/ext.rs /home/sam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.32/src/format.rs /home/sam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.32/src/ident_fragment.rs /home/sam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.32/src/to_tokens.rs /home/sam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.32/src/runtime.rs /home/sam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.32/src/spanned.rs
+
+/home/sam/RustProj/wet/target/debug/deps/libquote-c587c0da2c753bd2.rlib: /home/sam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.32/src/lib.rs /home/sam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.32/src/ext.rs /home/sam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.32/src/format.rs /home/sam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.32/src/ident_fragment.rs /home/sam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.32/src/to_tokens.rs /home/sam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.32/src/runtime.rs /home/sam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.32/src/spanned.rs
+
+/home/sam/RustProj/wet/target/debug/deps/quote-c587c0da2c753bd2.d: /home/sam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.32/src/lib.rs /home/sam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.32/src/ext.rs /home/sam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.32/src/format.rs /home/sam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.32/src/ident_fragment.rs /home/sam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.32/src/to_tokens.rs /home/sam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.32/src/runtime.rs /home/sam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.32/src/spanned.rs
+
+/home/sam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.32/src/lib.rs:
+/home/sam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.32/src/ext.rs:
+/home/sam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.32/src/format.rs:
+/home/sam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.32/src/ident_fragment.rs:
+/home/sam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.32/src/to_tokens.rs:
+/home/sam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.32/src/runtime.rs:
+/home/sam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.32/src/spanned.rs:
